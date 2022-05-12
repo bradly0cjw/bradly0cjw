@@ -1,4 +1,4 @@
-# For more infomation please visit [here](https://bradly0cjw.github.io/en)<br>
+# For more infomation please visit [here](https://bradly0cjw.github.io/)<br>
 
 ## About me
 ![Pony trot2](https://github.com/bradly0cjw/bradly0cjw.github.io/blob/6a15ba267dff19688a2063ce6f4e69e2efc07eea/img/pony.gif)<br>
