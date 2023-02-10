@@ -1,3 +1,4 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
   # Schedule daily updates
@@ -14,37 +15,81 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          #  - repo
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
+        
+          # Options
           user: bradly0cjw
           template: classic
           base: header, activity, community, repositories, metadata
-          repositories_forks: yes
+          base_indepth: yes
+          config_display: columns
           config_timezone: Asia/Taipei
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
-          plugin_achievements_threshold: X
+          plugin_achievements_threshold: C
           plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
           plugin_activity_timestamps: yes
-          plugin_notable: yes
-          plugin_notable_indepth: yes
-          plugin_notable_self: yes
-          plugin_notable_from: user
-          plugin_notable_types: commit
-          plugin_traffic: yes
+          plugin_activity_visibility: all
+          plugin_code: yes
+          plugin_code_days: 3
+          plugin_code_lines: 12
+          plugin_code_load: 400
+          plugin_code_visibility: public
+          plugin_discussions: yes
+          plugin_discussions_categories: yes
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_habits_charts_type: chartlist
+          plugin_habits_charts_type: chartist
           plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_from: 1000
-          plugin_habits_languages_limit: 20
+          plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
           plugin_music: yes
-          plugin_music_provider: spotify
-          plugin_music_token: "${{ secrets.SPID_TOKEN }},${{ secrets.SPSE_TOKEN }},${{ secrets.SPRE_TOKEN }}"
+          plugin_music_limit: 4
+          plugin_music_mode: recent
           plugin_music_played_at: yes
-          output_action: none
+          plugin_music_provider: spotify
+          plugin_music_time_range: short
+          plugin_music_top_type: tracks
+          plugin_music_token: "${{ secrets.SPID_TOKEN }},${{ secrets.SPSE_TOKEN }},${{ secrets.SPRE_TOKEN }}"
+          plugin_music_user: .user.login
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_indepth: yes
+          plugin_notable_types: commit
+          plugin_traffic: yes
+          repositories_forks: yes
+          
+
           
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -55,8 +100,8 @@ jobs:
         run: |
           set +e
           git checkout metrics-renders
-          git config --global user.email bradly093@gmail.com
-          git config --global user.name bradly0cjw
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           sudo mv /metrics_renders/* ./
           git add --all
           git commit -m "chore: push metrics"
