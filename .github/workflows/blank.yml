@@ -41,7 +41,6 @@ jobs:
           plugin_habits_languages_limit: 20
           plugin_habits_languages_threshold: 0%
           plugin_music: yes
-          plugin_music_mode: recent
           plugin_music_provider: spotify
           plugin_music_token: "${{ secrets.SPID_TOKEN }},${{ secrets.SPSE_TOKEN }},${{ secrets.SPRE_TOKEN }}"
           plugin_music_played_at: yes
