@@ -45,7 +45,9 @@ jobs:
           plugin_activity_timestamps: yes
           plugin_activity_visibility: all
           users_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot], actions-user, action@github.com
-          repositories_skipped: linbei9487/*
+          repositories_skipped: |
+            @use.patterns
+            linbei9487/*
           plugin_code: yes
           plugin_code_days: 3
           plugin_code_lines: 12
