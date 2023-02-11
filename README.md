@@ -15,7 +15,7 @@
 *****
 
 
-<img align="right" alt="Pony trot2" src="https://github.com/bradly0cjw/bradly0cjw.github.io/blob/6a15ba267dff19688a2063ce6f4e69e2efc07eea/img/pony.gif">
+<img align="right" alt="Pony trot2" src="https://raw.githubusercontent.com/bradly0cjw/bradly0cjw.github.io/6a15ba267dff19688a2063ce6f4e69e2efc07eea/img/pony.gif">
 
 > Student<br>
 > Pronounce: <code>he/him</code><br>
