@@ -3,7 +3,7 @@
 ## At
 ![](https://raw.githubusercontent.com/NTTUCSIE-111/.github/main/github-metrics.svg)
 ## About me
-<div>
+<div width="100%">
 <img align="left" width="50%" alt="Metrix" src="https://gist.githubusercontent.com/bradly0cjw/32a40aa59e32ae0ce1e6d51aab042e4a/raw/general_L.svg">
 <img align="right" width="50%" alt="Metrix" src="https://gist.githubusercontent.com/bradly0cjw/32a40aa59e32ae0ce1e6d51aab042e4a/raw/general_R.svg">
 <img align="right" width="50%" alt="Metrix" src="https://gist.githubusercontent.com/bradly0cjw/32a40aa59e32ae0ce1e6d51aab042e4a/raw/Achivement.svg">
@@ -12,7 +12,7 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradly0cjw&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br> -->
 <div>
-[<img align="right" alt="Pony trot2" src="https://github.com/bradly0cjw/bradly0cjw.github.io/blob/6a15ba267dff19688a2063ce6f4e69e2efc07eea/img/pony.gif">](#)
+<img align="right" alt="Pony trot2" src="https://github.com/bradly0cjw/bradly0cjw.github.io/blob/6a15ba267dff19688a2063ce6f4e69e2efc07eea/img/pony.gif">
 <div align="left">
 Student<br>
 Pronounce: <code>he/him</code><br>
