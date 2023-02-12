@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Media
+      - name: Recent
         uses: lowlighter/metrics@latest
         with:
           filename: media.svg
@@ -24,7 +24,7 @@ jobs:
           committer_gist: ${{ secrets.GIST }}
           output_action: gist
           plugin_music: yes
-          plugin_music_limit: 7
+          plugin_music_limit: 10
           plugin_music_mode: recent
           plugin_music_played_at: yes
           plugin_music_provider: spotify
@@ -43,7 +43,7 @@ jobs:
           committer_gist: ${{ secrets.GIST }}
           output_action: gist
           plugin_music: yes
-          plugin_music_limit: 3
+          plugin_music_limit: 10
           plugin_music_mode: top
           plugin_music_played_at: yes
           plugin_music_provider: spotify
