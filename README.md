@@ -28,4 +28,15 @@
 > Pixelartist<br>
 > Chiptune arranger<br>
 > Now learning <code>C++</code><br>
-
+>  
+> In this world of wonder, we stand as one,<br>
+> Fighting evil, till the day is done.<br>
+> With our friendship, we can conquer all,<br>
+> In this land of rainbows, we will always stand tall.<br>
+> 
+> So come along, and join the ride,<br>
+> My Little Pony, by our side.<br>
+> With love and laughter, we'll conquer all,<br>
+> In Equestria, we will always stand tall.<br>
+> 
+> Generate by <code>ChatGpt</code>
