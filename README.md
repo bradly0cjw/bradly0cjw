@@ -10,7 +10,7 @@
 ## About me
 <div width="100%" >
 <img align="left" width="48.5%" alt="Metrix" src="https://gist.githubusercontent.com/bradly0cjw/32a40aa59e32ae0ce1e6d51aab042e4a/raw/general_L.svg">
-<img width="400px" alt="Metrix" src="https://gist.githubusercontent.com/bradly0cjw/32a40aa59e32ae0ce1e6d51aab042e4a/raw/general_R.svg">
+<img width="48.5%" alt="Metrix" src="https://gist.githubusercontent.com/bradly0cjw/32a40aa59e32ae0ce1e6d51aab042e4a/raw/general_R.svg">
 <img width="48.5%" alt="Metrix" src="https://gist.githubusercontent.com/bradly0cjw/32a40aa59e32ae0ce1e6d51aab042e4a/raw/achivement.svg">
 <img height="1px" width="100%" alt="Metrix" src="https://gist.githubusercontent.com/bradly0cjw/32a40aa59e32ae0ce1e6d51aab042e4a/raw/629f1f4670883277077ed8ee3d444ea66919a0d5/PH.svg"></div>
 <img align="left" width="48.5%" alt="Metrix" src="https://gist.githubusercontent.com/bradly0cjw/32a40aa59e32ae0ce1e6d51aab042e4a/raw/media.svg">
