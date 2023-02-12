@@ -21,7 +21,7 @@ jobs:
           base: ""
           committer_gist: ${{ secrets.GIST }}
           config_timezone: Asia/Taipei
-          config_order: notable, code, activity
+          config_order: code, activity
           output_action: gist
           repositories_forks: yes
           repositories_skipped: ${{ secrets.IGNORE }}
