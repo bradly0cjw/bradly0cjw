@@ -35,7 +35,7 @@ jobs:
       - name: Top
         uses: lowlighter/metrics@latest
         with:
-          filename: media.svg
+          filename: top.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           base_indepth: yes
