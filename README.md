@@ -1,4 +1,4 @@
-# For more infomation please visit [here](https://bradly0cjw.github.io/)<br>
+# ~~For more infomation please visit [here](https://bradly0cjw.github.io/) (Desperate)~~<br>
 
 ## At
 <div width="100%" >
