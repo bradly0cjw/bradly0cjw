@@ -26,6 +26,7 @@ jobs:
           repositories_forks: yes
           repositories_skipped: ${{ secrets.IGNORE }}
           user: NTTUCSIE-111
+          repositories_affiliations: organization_member
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
