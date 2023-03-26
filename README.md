@@ -18,11 +18,11 @@
 
 <img align="right" alt="Pony trot2" src="https://raw.githubusercontent.com/bradly0cjw/bradly0cjw.github.io/6a15ba267dff19688a2063ce6f4e69e2efc07eea/img/pony.gif">
 
+> A PONY CASTING SPELLS ON HIS COMPUTER<br>
 > Student<br>
 > Pronounce: <code>he/him</code><br>
-> Call me <code>Bradly</code>,<code>CyberJyun</code>,<code>Jyun-Wei</code><br>
-> Pixelartist<br>
-> Chiptune arranger<br>
+> Call me <code>Bradly</code>,<code>Jyun-Wei</code><br>
+> Chiptune & Pixel art amateur <br>
 > Now learning <code>C++</code><br>
 >  
 > In this world of wonder, we stand as one,<br>
