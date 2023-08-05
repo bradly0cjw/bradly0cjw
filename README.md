@@ -1,6 +1,6 @@
 <!-- # ~~For more infomation please visit [here](https://bradly0cjw.github.io/) (Desperate)~~<br> -->
 # For more infomation please visit [here](https://bradly0cjw.vercel.app) (Under Construction)<br>
-# A PONY CASTING SPELLS ON HIS COMPUTER
+# PONY CASTING SPELLS ON COMPUTER
 ## About me
 <div width="100%" >
 <img align="left" width="48.5%" alt="Metrix" src="https://gist.githubusercontent.com/bradly0cjw/32a40aa59e32ae0ce1e6d51aab042e4a/raw/general_L.svg">
@@ -18,12 +18,12 @@
 
 <img align="right" alt="Pony trot2" src="https://raw.githubusercontent.com/bradly0cjw/bradly0cjw.github.io/6a15ba267dff19688a2063ce6f4e69e2efc07eea/img/pony.gif">
 
-> A PONY CASTING SPELLS ON HIS COMPUTER<br>
+> PONY CASTING SPELLS ON COMPUTER<br>
 > Student<br>
 > Pronounce: <code>he/him</code><br>
 > Call me <code>Bradly</code>,<code>Jyun-Wei</code><br>
 > Chiptune & Pixel art amateur <br>
-> Now learning <code>C++</code><br>
+> Now learning <code>Kotlin</code><br>
 >  
 > In this world of wonder, we stand as one,<br>
 > Fighting evil, till the day is done.<br>
