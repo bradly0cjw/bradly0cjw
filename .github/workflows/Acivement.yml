@@ -9,12 +9,12 @@ on:
   # push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
-    runs-on: master
+    runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:         
       - name: Achivement
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: achivement.svg
           token: ${{ secrets.METRICS_TOKEN }}
