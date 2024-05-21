@@ -1,5 +1,6 @@
 <!-- # ~~For more infomation please visit [here](https://bradly0cjw.github.io/) (Desperate)~~<br> -->
-# For more infomation please visit [here](https://bradly0cjw.vercel.app) (Under Construction)<br>
+# For more infomation please visit [here](https://bradly0cjw.vercel.app) (Work In Progress)<br>
+# The One and the Only GPG Finger Print <br>[`4839 0FA2 82C7 182D 76B9 CFA6 64B8 9ED7 1BAC 50EC`](https://github.com/bradly0cjw.gpg)
 # PONY CASTING SPELLS IN SHELL
 ## About me
 <div width="100%" >
