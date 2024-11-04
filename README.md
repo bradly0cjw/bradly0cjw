@@ -2,7 +2,7 @@
 # For more infomation please visit [here](https://bradly0cjw.vercel.app) (Work In Progress)<br>
 ## You are ![Visitor Count](https://profile-counter.glitch.me/bradly0cjw/count.svg)th visitor
 # The One and the Only GPG Finger Print <br>[`4839 0FA2 82C7 182D 76B9 CFA6 64B8 9ED7 1BAC 50EC`](https://github.com/bradly0cjw.gpg)
-# The One and the only SSH Finger Print <br>[`SHA256:bf83KeqhR4SZqmBKA4zzgfUucP6lq68i/KfOGBFOYis`](https://github.com/bradly0cjw.keys)
+# The One and the Only SSH Finger Print <br>[`SHA256:bf83KeqhR4SZqmBKA4zzgfUucP6lq68i/KfOGBFOYis`](https://github.com/bradly0cjw.keys)
 # PONY CASTING SPELLS IN SHELL
 ## About me
 <div width="100%" >
