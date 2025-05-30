@@ -1,8 +1,11 @@
 <!-- # ~~For more infomation please visit [here](https://bradly0cjw.github.io/) (Desperate)~~<br> -->
 # [PONY CASTING SPELLS IN SHELL](https://cypone.dev)<br>
-## You are ![Visitor Count](https://profile-counter.glitch.me/bradly0cjw/count.svg)th visitor
-# The One and the Only GPG Finger Print <br>[`4839 0FA2 82C7 182D 76B9 CFA6 64B8 9ED7 1BAC 50EC`](https://github.com/bradly0cjw.gpg)
-# The One and the Only SSH Finger Print <br>[`SHA256:bf83KeqhR4SZqmBKA4zzgfUucP6lq68i/KfOGBFOYis`](https://github.com/bradly0cjw.keys)
+The site is online now. Check out [this](https://cypone.dev) website 
+### You are ![Visitor Count](https://profile-counter.glitch.me/bradly0cjw/count.svg)th visitor
+## The One and the Only GPG Finger Print <br>[`B660 EB80 Fa12 9721 C0B1 4B4B DCCD 19C9 5BA6 B322`](https://github.com/bradly0cjw.gpg)
+#### ~~Past GPG Finger Print (Deprecated Since 2025-05-26) <br>[`4839 0FA2 82C7 182D 76B9 CFA6 64B8 9ED7 1BAC 50EC`](https://github.com/bradly0cjw.gpg)~~
+
+## The One and the Only SSH Finger Print <br>[`SHA256:bf83KeqhR4SZqmBKA4zzgfUucP6lq68i/KfOGBFOYis`](https://github.com/bradly0cjw.keys)
 ## About me
 <div width="100%" >
 <img align="left" width="48.5%" alt="Metrix" src="https://gist.githubusercontent.com/bradly0cjw/32a40aa59e32ae0ce1e6d51aab042e4a/raw/general_L.svg">
