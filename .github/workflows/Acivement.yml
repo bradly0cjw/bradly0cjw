@@ -14,7 +14,7 @@ jobs:
       contents: write
     steps:         
       - name: Achivement
-        uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
+        uses: yobson1/metrics@b99f7cd27980d0761a668ecc8f1c08f0fa57df15
         with:
           filename: achivement.svg
           token: ${{ secrets.METRICS_TOKEN }}
