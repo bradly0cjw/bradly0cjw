@@ -14,7 +14,7 @@ jobs:
       contents: write
     steps:         
       - name: Gernal L
-        uses: yobson1/metrics@b99f7cd27980d0761a668ecc8f1c08f0fa57df15
+        uses: gh-metrics/metrics@main
         with:
           filename: general_L.svg
           token: ${{ secrets.METRICS_TOKEN }}
