@@ -1,6 +1,8 @@
 <!-- # ~~For more infomation please visit [here](https://bradly0cjw.github.io/) (Desperate)~~<br> -->
 # [PONY CASTING SPELLS IN SHELL](https://cypone.dev)<br>
-The site is online now. Check out [this](https://cypone.dev) website 
+The site is online now. Check out [this](https://cypone.dev) website  
+(Migrating to Nuxt.js now, the site might not be stable)
+
 ### You are ![Visitor Count](https://profile-counter.glitch.me/bradly0cjw/count.svg)th visitor
 ## The One and the Only GPG Finger Print <br>[`B660 EB80 Fa12 9721 C0B1 4B4B DCCD 19C9 5BA6 B322`](https://github.com/bradly0cjw.gpg)
 #### ~~Past GPG Finger Print (Deprecated Since 2025-05-26) <br>[`4839 0FA2 82C7 182D 76B9 CFA6 64B8 9ED7 1BAC 50EC`](https://github.com/bradly0cjw.gpg)~~
@@ -23,21 +25,25 @@ The site is online now. Check out [this](https://cypone.dev) website
 
 <img align="right" alt="Pony trot2" src="https://raw.githubusercontent.com/bradly0cjw/bradly0cjw.github.io/6a15ba267dff19688a2063ce6f4e69e2efc07eea/img/pony.gif">
 
-> PONY CASTING SPELLS ON COMPUTER<br>
-> Student<br>
-> Pronounce: <code>he/him</code><br>
-> Call me <code>Bradly</code>,<code>Jyun-Wei</code><br>
-> Chiptune & Pixel art amateur <br>
-> Now learning <code>Kotlin</code><br>
+> PONY CASTING SPELLS IN SHELLS  
+>   
+> Call me `Bradly`  
+> Chiptune & Pixel art amateur  
+> Discovering new Spells  
 >  
-> In this world of wonder, we stand as one,<br>
-> Fighting evil, till the day is done.<br>
-> With our friendship, we can conquer all,<br>
-> In this land of rainbows, we will always stand tall.<br>
-> 
-> So come along, and join the ride,<br>
-> My Little Pony, by our side.<br>
-> With love and laughter, we'll conquer all,<br>
-> In Equestria, we will always stand tall.<br>
-> 
-> Generate by <code>ChatGpt</code>
+> In realms of pixel, bright and bold,  
+> A unicorn's story is told.  
+> With a chiptune beat and a vibrant screen,  
+> A digital magic, a wonderful scene.  
+>   
+> No need for what everypony else may see,  
+> This world of 8-bit is the place for me.  
+> With a flick of my horn, and a whispered word,  
+> A new spell is written, a new sound is heard.  
+>   
+> From glowing shells, the magic takes flight,  
+> In lines of code, and pixels of light.  
+> A brohoof to you, and all ponykind,  
+> In this world of friendship, what wonders we find.  
+>   
+> Generate by `Gemini 2.5 Pro`
