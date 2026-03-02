@@ -14,7 +14,7 @@ jobs:
       contents: write
     steps:         
       - name: Gernal R
-        uses: lowlighter/metrics@latest
+        uses: dkhokhlov/metrics@master
         with:
           filename: general_R.svg
           token: ${{ secrets.METRICS_TOKEN }}
